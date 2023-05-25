@@ -62,7 +62,7 @@ header{
     font-size: 1.2em;
 }
 .alerta p::before{
-    content: url(alert.png);
+    content: url(Alert.png);
     padding-right: 1em;
 }
 
